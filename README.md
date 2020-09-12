@@ -2,8 +2,8 @@
 Connects via I2C to a CMPS14, outputs NMEA0183 HDM sentences via Serial (38400 baud)
 
 Requires:
-An arduino (Uno, nano, etc) does not matter which one
-CMPS14 (may work with CMPS10, CMPS12)
+  1. An arduino (Uno, nano, etc) does not matter which one
+  2. CMPS14 (may work with CMPS10, CMPS12)
 
 Wiring is Ground, 3.3V or 5V, SDA and SCL.
 
