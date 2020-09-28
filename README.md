@@ -13,3 +13,5 @@ XDR (Pitch) - whole degrees only
 XDR (Roll) - whole degrees only
 
 ~10Hz output (delay of 100ms between loop runs)
+
+Licensed under GNU General Public License v3.0
